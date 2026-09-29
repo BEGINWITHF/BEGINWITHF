@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I am Tagin_T(or Hiverfy_H)
 
-<!--
-**BEGINWITHF/BEGINWITHF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just someone making things which it wants. Currently working on *"realtime-time-manim"* *"Cheese"* and *"A-Nice-Bot"* the most. 
 
-Here are some ideas to get you started:
+The founder of **Club Phormation** which is a club in Shanghai Pinghe Middle School. Also previously a member of **Pinghe Robotic Club Ironpulse**. "**Team Daydream**" which is mentioned in the organization part of my profile, is a group I have tried to start for a long time but never succeed...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Projects
+
+### Big Ones
+|Repository|Description|Logo|
+|---|---|---|
+|[real-time-manim](https://github.com/BEGINWITHF/real-time-manim.git) |A project trying to let manim users see their ***rendering results earlier*** by popping up a window so the the ***frames are shown and rendered at the same time***. |![real time manim logo](logos\real-time-manim.jpg)|
+|[A-Nice-Bot](https://github.com/BEGINWITHF/A_Nice_Bot.git)|A project trying to make a bot that can work ***between multi-devices*** also with a always adapting memory system. It will ***not out put in words but in behavior*** codes that control a virtual body. (this can be a lot of work...)|COMING SOON...|
+
+### Minecraft Mods and Plugins
+> I only public on [Github](https://github.com/BEGINWITHF) and [Modrinth](https://modrinth.com/user/BEGINWITHF)(well... Modrinth review is quiet slow...)
+
+|Name|Type|Description|Logo|
+|---|---|---|---|
+|[OP-Monitor](https://github.com/BEGINWITHF/OP-Monitor.git)|Paper Plugin|A Plugin to recognize op players' unusual behaviors then ***record and broadcast***. |![OP Monitor logo](logos\OP-Monitor.png)|
+|[Beautify-Bedrock-Friend](https://github.com/BEGINWITHF/Beautify-Bedrock-Friend.git)|Fabric Client Mod|A mod to help fixing the issue that in some Geyser/Floodgate servers, ***skins of bedrock players can not be shown*** to java players properly. |![Beautify Bedrock Friend logo](logos\Beautify-Bedrock-Friend.png)|
+|[old-raid-mechanics](https://github.com/BEGINWITHF/old-raid-mechanics.git)|Paper Plugin|A Plugin to ***relive 1.20.1 raid mechanics*** in 26.2|![old raid mechanics logo](logos\old-raid-mechanics.png)|
+|[Cheese](https://github.com/BEGINWITHF/Cheese.git)|Fabric Client Mod|A mod that allows you to ***pose yourself in game*** with a similar way as in blender. |COMING SOON...|
+
+### Just Ideas
+> Things here might be started in the future...
+
+|Name|Description|Logo|
+|---|---|---|
+|[Lending-Help](https://github.com/BEGINWITHF/Lending-Help.git)|A repository aim to let your ***AI agent operate on another computer*** by linking the two computers with a wire. |COMING SOON...|
+|Manteraction|A GUI for ***editing manim lively***. |![Manteraction logo](logos\Manteraction.jpg)|
+
+---
