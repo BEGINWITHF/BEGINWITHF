@@ -11,7 +11,7 @@ The founder of **Club Phormation** which is a club in Shanghai Pinghe Middle Sch
 ### Big Ones
 |Repository|Description|Logo|
 |---|---|---|
-|[real-time-manim](https://github.com/BEGINWITHF/real-time-manim.git) |A project trying to let manim users see their ***rendering results earlier*** by popping up a window so the the ***frames are shown and rendered at the same time***. |![real time manim logo](logos/real-time-manim.jpg)|
+|[real-time-manim](https://github.com/BEGINWITHF/real-time-manim.git) |A project trying to let manim users see their ***rendering results earlier*** by popping up a window so the the ***frames are shown and rendered at the same time***. |<img src="logos/real-time-manim.jpg" width="100" height="100" alt="real time manim logo" />|
 |[A-Nice-Bot](https://github.com/BEGINWITHF/A_Nice_Bot.git)|A project trying to make a bot that can work ***between multi-devices*** also with a always adapting memory system. It will ***not out put in words but in behavior*** codes that control a virtual body. (this can be a lot of work...)|COMING SOON...|
 
 ### Minecraft Mods and Plugins
