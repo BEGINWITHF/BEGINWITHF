@@ -2,7 +2,7 @@
 
 Just someone making things which it wants. Currently working on *"realtime-time-manim"* *"Cheese"* and *"A-Nice-Bot"* the most. 
 
-The founder of **Club Phormation** which is a club in Shanghai Pinghe Middle School. Also previously a member of **Pinghe Robotic Club Ironpulse**. "**Team Daydream**" which is mentioned in the organization part of my profile, is a group I have tried to start for a long time but never succeed...
+The founder of **Club Phormation** which is a club in Shanghai Pinghe High School. Also previously a member of **Pinghe Robotic Club Ironpulse**. "**Team Daydream**" which is mentioned in the organization part of my profile, is a group I have tried to start for a long time but never succeed...
 
 ---
 
