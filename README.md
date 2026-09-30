@@ -22,7 +22,7 @@ The co-founder of **Club Phormation** which is a club in Shanghai Pinghe High Sc
 |[OP-Monitor](https://github.com/BEGINWITHF/OP-Monitor.git)|Paper Plugin|A Plugin to recognize op players' unusual behaviors then ***record and broadcast***. |<img src="logos/OP-Monitor.png" width="100" height="100" alt="OP Monitor logo" />|
 |[Beautify-Bedrock-Friend](https://github.com/BEGINWITHF/Beautify-Bedrock-Friend.git)|Fabric Client Mod|A mod to help fixing the issue that in some Geyser/Floodgate servers, ***skins of bedrock players can not be shown*** to java players properly. |<img src="logos/Beautify-Bedrock-Friend.png" width="100" height="100" alt="Beautify Bedrock Friend logo" />|
 |[old-raid-mechanics](https://github.com/BEGINWITHF/old-raid-mechanics.git)|Paper Plugin|A Plugin to ***relive 1.20.1 raid mechanics*** in 26.2|<img src="logos/old-raid-mechanics.png" width="100" height="100" alt="old raid mechanics logo" />|
-|[Cheese](https://github.com/BEGINWITHF/Cheese.git)|Fabric Client Mod|A mod that allows you to ***pose yourself in game*** with a similar way as in blender. |COMING SOON...|
+|[Cheese](https://github.com/BEGINWITHF/Cheese.git)|Fabric Client Mod|A mod that allows you to ***pose yourself in game*** with a similar way as in blender. |<img src="logos/Cheese.jpg" width="100" height="100" alt="Cheese logo" />|
 
 ### Just Ideas
 > Things here might be started in the future...
