@@ -1,8 +1,10 @@
 # Hi, I am Tagin_T(or Hiverfy_H)
 
-Just someone making things which it wants. Currently working on *"realtime-time-manim"* *"Cheese"* and *"A-Nice-Bot"* the most. 
+Just someone making things which it wants. Currently working on *"real-time-manim"* *"Cheese"* and *"A-Nice-Bot"* the most. 
 
-The co-founder of **Club Phormation** which is a club in Shanghai Pinghe High School. Also previously a member of **Pinghe Robotic Club Ironpulse**. "**Team Daydream**" which is mentioned in the organization part of my profile, is a group I have tried to start for a long time but never succeed...
+The co-founder of **Club Phormation** which is an organization in Shanghai Pinghe High School. Also previously a member of **Pinghe Robotic Club Ironpulse**. "**Team Daydream**" which is mentioned in the organization part of my profile, is a group I have tried to start for a long time but never succeed...
+
+My profile picture is just a personal Logo of mine. 
 
 ---
 
