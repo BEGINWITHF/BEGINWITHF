@@ -1,6 +1,6 @@
 # Hi, I am Tagin_T(or Hiverfy_H)
 
-Just someone making things which it wants. Currently working on *"real-time-manim"* *"Cheese"* and *"A-Nice-Bot"* the most. 
+Just someone making things which it wants. Currently working on *"real-time-manim"* *"Cheese"* and *"Animaculum"* the most. 
 
 The co-founder of **Club Phormation** which is an organization in Shanghai Pinghe High School. Also previously a member of **Pinghe Robotic Club Ironpulse**. "**Team Daydream**" which is mentioned in the organization part of my profile, is a group I have tried to start for a long time but never succeed...
 
@@ -15,7 +15,7 @@ My profile picture is just a personal Logo of mine.
 |Repository|Description|Logo|
 |---|---|---|
 |[real-time-manim](https://github.com/BEGINWITHF/real-time-manim.git) |A project trying to let manim users see their ***rendering results earlier*** by popping up a window so the the ***frames are shown and rendered at the same time***. |<img src="logos/real-time-manim.jpg" width="100" height="100" alt="real time manim logo" />|
-|[A-Nice-Bot](https://github.com/BEGINWITHF/A_Nice_Bot.git)|A project trying to make a bot that can work ***between multi-devices*** also with a always adapting memory system. It will ***not out put in words but in behavior*** codes that control a virtual body. (this can be a lot of work...)|COMING SOON...|
+|[Animaculum](https://github.com/BEGINWITHF/Animaculum.git)|A project trying to make a bot that can work ***between multi-devices*** also with a always adapting memory system. It will ***not out put in words but in behavior*** codes that control a virtual body. (this can be a lot of work...)|COMING SOON...|
 
 ### Minecraft Mods and Plugins
 > I only public on [Github](https://github.com/BEGINWITHF) and [Modrinth](https://modrinth.com/user/BEGINWITHF)(well... Modrinth review is quiet slow...)
